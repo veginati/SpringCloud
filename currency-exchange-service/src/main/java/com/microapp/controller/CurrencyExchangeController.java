@@ -10,7 +10,7 @@ import com.microapp.beans.ExchangeValue;
 import com.microapp.repository.ExchangeValueRepository;
 
 @RestController
-public class CurrentyExchangeController {
+public class CurrencyExchangeController {
 
 	@Autowired
 	private Environment environment;
